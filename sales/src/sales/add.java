@@ -9,5 +9,7 @@ public static void main(String args[])
 	System.out.println("hi ");
 	System.out.println("hi ");
 	System.out.println("hi ");
+	System.out.println("hi world what si ");
+	System.out.println("hi world what si ");
 }
 }
